@@ -1,4 +1,4 @@
-# vue-template
+# vue-workshop
 
 > Starter project for developing in Vue 3 on top of Vite
 
@@ -16,10 +16,10 @@
 ```bash
 
 # clone the repo
-git clone https://github.com/jdhillen/vue-template.git
+git clone https://github.com/jdhillen/vue-workshop.git
 
 # cd into the folder
-cd vue-template
+cd vue-workshop
 
 # install dependencies
 npm install
